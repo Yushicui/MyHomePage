@@ -93,7 +93,6 @@ h6 {
   padding-right: 30px;
 }
 
-
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -107,7 +106,7 @@ h6 {
   list-style: none;
 }
 
-.nav-menu>ul>li {
+.nav-menu > ul > li {
   position: relative;
   white-space: nowrap;
 }
@@ -131,7 +130,7 @@ h6 {
 }
 
 .nav-menu a:hover i,
-.nav-menu li:hover>a i {
+.nav-menu li:hover > a i {
   color: #149ddd;
 }
 
@@ -169,7 +168,6 @@ h6 {
   color: #ffffff;
 }
 
-
 #hero p {
   color: #fff;
   margin-bottom: 50px;
@@ -183,7 +181,6 @@ h6 {
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
 }
-
 
 /*--------------------------------------------------------------
 # Sections General
@@ -339,6 +336,27 @@ section {
   font-weight: 600;
   margin-bottom: 50px;
   color: #050d18;
+}
+
+#copyLinkButton {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 1000;
+  border: none;
+  background-color: #008cba;
+  color: white;
+  cursor: pointer;
+  border-radius: 6px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition:
+    transform 0.3s,
+    box-shadow 0.3s;
+}
+
+#copyLinkButton:hover {
+  background-color: #006699;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  transform: translateY(2px);
 }
 
 /*--------------------------------------------------------------
