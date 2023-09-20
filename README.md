@@ -11,13 +11,20 @@ The objective of creating this personal website is to showcase my skills, my pro
 There are four web pages in total:
 
 Index Page:
-![Index page screenshot](URL)
+
+![Index page screenshot](https://github.com/Yushicui/MyHomePage/blob/main/screenshots/index.png)
+
 About Page:
-![About page screenshot](URL)
+
+![About page screenshot](https://github.com/Yushicui/MyHomePage/blob/main/screenshots/about.png)
+
 Resume Page:
-![Resume page screenshot](URL)
+
+![Resume page screenshot](https://github.com/Yushicui/MyHomePage/blob/main/screenshots/resume.png)
+
 Contact Page:
-![Contact page screenshot](URL)
+
+![Contact page screenshot](https://github.com/Yushicui/MyHomePage/blob/main/screenshots/contact.png)
 
 
 ## Tech Requirements
