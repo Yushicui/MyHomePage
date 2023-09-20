@@ -75,7 +75,7 @@ This project was created as a part of the Web Development class in Computer Scie
 
 ## Link to the Video Demonstration
 
-Watch a detailed walkthrough of the project in this [video demonstration](https://youtu.be/yourlinkhere).
+Watch a detailed walkthrough of the project in this [video demonstration](https://youtu.be/fqFNauCCSgY).
 
 ## Link to the Google slides
 View the presentation of the project in this [google slides](https://docs.google.com/presentation/d/1XNj1ssOgOTa6SaYWSgClMGNXuB6fULVO-dvTojHzThA/edit?usp=sharing)
