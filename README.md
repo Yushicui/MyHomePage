@@ -26,7 +26,7 @@ Resume Page:
 
 Contact Page:
 
-![Contact page screenshot](https://github.com/Yushicui/MyHomePage/blob/main/screenshots/contact.png)
+![Contact page screenshot](https://github.com/Yushicui/MyHomePage/blob/main/screenshots/contact-.png)
 
 
 ## Tech Requirements
