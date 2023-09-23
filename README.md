@@ -38,7 +38,6 @@ Contact Page:
 
 - **Libraries/Tools:**
   - **Bootstrap:** For responsive and and quick design, used the pre-styled components and the grid system
-  - **AOS(Animate on Scroll):** To add smooth scroll animations for extensive pages
 
 ## How to Install/Use
 
@@ -71,7 +70,7 @@ This project was created as a part of the Web Development class in Computer Scie
 
 ## Link to the Video Demonstration
 
-Watch a detailed walkthrough of the project in this [video demonstration](https://youtu.be/fqFNauCCSgY).
+Watch a detailed walkthrough of the project in this [video demonstration](https://youtu.be/gpotPCIh1EQ).
 
 ## Link to the Google slides
 
